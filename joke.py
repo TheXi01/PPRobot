@@ -30,3 +30,5 @@ def get_joke():
 if __name__ == "__main__":
     content = get_joke()
     print(content)
+
+
