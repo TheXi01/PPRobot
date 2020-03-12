@@ -8,3 +8,4 @@ XML_STR = '''
                 <Content><![CDATA[%s]]></Content>
                 </xml>
             '''
+
